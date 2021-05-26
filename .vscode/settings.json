@@ -1,0 +1,14 @@
+{
+    "fiveServer.php.executable": "C:\\wamp64\\bin\\php\\php7.4.9\\php.exe",
+    "fiveServer.php.ini": "C:\\wamp64\\bin\\php\\php7.4.9\\php.ini",
+    "fiveServer.port": 8080,
+    "fiveServer.ignore": [
+
+    ],
+    "fiveServer.browser": [
+    
+    ],
+    "open-php-html-js-in-browser.selectedBrowser": "Chrome",
+    "open-php-html-js-in-browser.documentRootFolder": "http://localhost/ProjectoTLP",
+    "open-php-html-js-in-browser.customHost": "localhost/"
+}
